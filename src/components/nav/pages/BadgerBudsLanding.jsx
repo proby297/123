@@ -1,5 +1,5 @@
 import { Col, Container, Row } from "react-bootstrap";
-
+import React from 'react';
 export default function BadgerBudsLanding(props) {
 
     return <div>
